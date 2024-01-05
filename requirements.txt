@@ -1,4 +1,5 @@
 pytelegrambotapi
 pydolarvenezuela
+cachetools
 python-dotenv
 pytz
