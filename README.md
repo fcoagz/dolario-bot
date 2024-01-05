@@ -1,7 +1,7 @@
 # dolario-bot
 Dolario es un bot de Telegram que brinda diversas funcionalidades para que puedas obtener el precio actual del dólar en Venezuela.
 
-![Example](src\assets\1.png)
+![Example](https://github.com/fcoagz/dolario-bot/blob/main/src/assets/1.png?raw=true)
 
 ## Librerías necesarias:
 
