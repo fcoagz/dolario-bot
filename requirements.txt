@@ -1,0 +1,4 @@
+pytelegrambotapi
+pydolarvenezuela
+python-dotenv
+pytz
